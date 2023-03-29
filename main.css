@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+    margin: auto 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    background-image: url("./IMG/barra.png");
+    height: 9px;
+    width: 100%;
+}
+
+#btn{
+    display: flex;
+    justify-content: center;
+}
+
+#titulo{
+    margin-top: 20px;
+    color: white;
+    font-size: 70px;
+    text-align: center;
+}
+
+button{
+    background: red;
+    padding: 10px;
+    border: none;
+    width: 140px;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    background-image: url("./IMG/barra.png");
+    height: 9px;
+    width: 100%;
+    top: 99%;
+    position: absolute;
+}
+
+
